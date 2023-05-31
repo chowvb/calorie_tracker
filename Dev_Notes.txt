@@ -1,0 +1,15 @@
+31/05/2023
+Spent alot of today messing with tkinter building a GUI for the calorie tracker. So far i've managed to implement the following features:
+
+1) Add foods into .csv file
+2) Display the contents of the .csv file within the widget (that automatically updates when you add a new item)
+    a) also included a manual refresh button on the top right panel incase manual changes are made directly in the .csv file
+
+
+To do: 
+Include some data visualisation?
+
+Other Notes: 
+main.ipynb will become redudnant in the future as its applications are no longer necessary
+add_to_dat.ipynb will also become redundant in the future.
+It is likely that both these files will be deleted in the near future along with the corresponding food_dat.csv file. 
